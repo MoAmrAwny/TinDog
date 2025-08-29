@@ -62,10 +62,30 @@
   color: black !important;
 }
 
-#testimonial{
-  background-color: lightgray;
+#testimonial {
+  background-color: #F8F9FA !important;
 }
 
 #testimonial img{
   height: 30px;
+}
+
+
+#pricing .btn-primary{
+
+  background-color: white !important;
+  color: black !important;
+  border-color: white !important;
+}
+
+#pricing .btn-primary:hover{
+
+  background-color: black !important;
+  color: white !important;
+  border-color: black !important;
+}
+
+#footer .list-unstyled a {
+  color: #000000 !important;  
+  text-decoration: none;       
 }
